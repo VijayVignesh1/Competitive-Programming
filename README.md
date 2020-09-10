@@ -1,6 +1,7 @@
 # Competitive-Programming
 Collection of my solutions to various competitive programming problems. <br>
 Will be updating this repo on a regular basis. <br>
+<img src="CP_image.png">
 
 -------------------------------------
 <p align="center">

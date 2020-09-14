@@ -12,16 +12,18 @@ Could you devise a constant space solution? <br> <br>
 ### Example 1: <br>
 
 ![](setMatrixZeros_example1.jpg)
-
-Input: matrix = [[1,1,1],[1,0,1],[1,1,1]] <br>
-Output: [[1,0,1],[0,0,0],[1,0,1]] <br>
+```
+Input: matrix = [[1,1,1],[1,0,1],[1,1,1]]
+Output: [[1,0,1],[0,0,0],[1,0,1]]
+```
 
 ### Example 2: <br>
 
 ![](setMatrixZeros_example2.jpg)
-
-Input: matrix = [[0,1,2,0],[3,4,5,2],[1,3,1,5]] <br>
-Output: [[0,0,0,0],[0,4,5,0],[0,3,1,0]] <br>
+```
+Input: matrix = [[0,1,2,0],[3,4,5,2],[1,3,1,5]]
+Output: [[0,0,0,0],[0,4,5,0],[0,3,1,0]]
+```
  
 ### Constraints:
 ```

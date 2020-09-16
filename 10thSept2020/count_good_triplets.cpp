@@ -29,12 +29,16 @@ int main()
   Solution s;
   std::string line;
   int number;
+  
+  cout<<"Enter a,b,c: \n";
+  cin >> a >> b >> c;
+  cout<<"Enter Vector: \n";
+  
   std::vector<int> arr;
   std::getline(std::cin, line);
   std::istringstream stream(line);
   while (stream >> number)
      arr.push_back(number);
-     write_vector(arr);
 
   // Call class function and print the result
   result=s.countGoodTriplets(arr,a,b,c);

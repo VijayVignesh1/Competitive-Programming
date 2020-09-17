@@ -11,7 +11,7 @@ The string s will be shuffled such that the character at the ith position moves 
 Return the shuffled string. <br>
 
 ### Example 1
-![shuffleString-example.jpg]
+![](shuffleString-example.jpg)<br>
 ```
 Input: s = "codeleet", indices = [4,5,6,7,0,2,1,3]
 Output: "leetcode"

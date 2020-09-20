@@ -11,7 +11,9 @@ Your task is to obtain the configuration represented by target where target[i] i
 You have a switch to flip the state of the bulb, a flip operation is defined as follows: <br>
 
 Choose any bulb (index i) of your current configuration. <br>
+
 Flip each bulb from index i to n-1. <br>
+
 When any bulb is flipped it means that if it is 0 it changes to 1 and if it is 1 it changes to 0. <br>
 
 Return the minimum number of flips required to form target. <br>

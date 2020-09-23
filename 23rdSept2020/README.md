@@ -4,7 +4,8 @@
 ## Pascal's Triangle
 Given a non-negative integer numRows, generate the first numRows of Pascal's triangle. <br>
 
-![](Animated.gif) <br>
+![](PascalTriangleAnimated2.gif)
+In Pascal's triangle, each number is the sum of the two numbers directly above it.
 
 ### Example:
 ```

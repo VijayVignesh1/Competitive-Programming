@@ -7,12 +7,12 @@
 Given an array of integers nums and an integer k, return the number of unique k-diff pairs in the array. <br>
 
 A k-diff pair is an integer pair (nums[i], nums[j]), where the following are true: <br>
-
+```
 0 <= i, j < nums.length <br>
 i != j <br>
 a <= b <br>
 b - a == k <br>
- 
+```
 
 ### Example 1:
 ```

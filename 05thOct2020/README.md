@@ -33,5 +33,5 @@ Explanation: 10 is "1010" in binary, with complement "0101" in binary, which is 
 ### Note:
 ```
 0 <= N < 10^9
-This question is the same as 476: ![]https://leetcode.com/problems/number-complement/
+This question is the same as 476: [https://leetcode.com/problems/number-complement/] https://leetcode.com/problems/number-complement/
 ```

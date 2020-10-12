@@ -4,7 +4,7 @@
 ## Remove Duplicate Letters (October LeetCode Challenge: Day 11)
 Given a string s, remove duplicate letters so that every letter appears once and only once. You must make sure your result is the smallest in lexicographical order among all possible results. <>
 
-Note: This question is the same as 1081: ![](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) <br>
+Note: This question is the same as 1081: ![https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) <br>
 
 ### Example 1:
 ```

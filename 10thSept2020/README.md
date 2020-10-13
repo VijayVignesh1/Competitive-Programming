@@ -1,6 +1,6 @@
 # Questions
 --------------------------
-## Count Good Triplets
+## Count Good Triplets (October LeetCode Challenge: Day 10)
 
 Given an array of integers arr, and three integers a, b and c. You need to find the number of good triplets. <br>
 

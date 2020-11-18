@@ -6,21 +6,21 @@ You are given a map of a server center, represented as a m * n integer matrix gr
 Return the number of servers that communicate with any other server. <br>
 
 ### Example 1:
-![](countServersThatCommunicate-1.jpg)
+![](countServersThatCommincate-1.jpg)
 ```
 Input: grid = [[1,0],[0,1]] 
 Output: 0
 Explanation: No servers can communicate with others.
 ```
 ### Example 2:
-![](countServersThatCommunicate-2.jpg)
+![](countServersThatCommincate-2.jpg)
 ```
 Input: grid = [[1,0],[1,1]]
 Output: 3
 Explanation: All three servers can communicate with at least one other server.
 ```
 ### Example 3:
-![](countServersThatCommunicate-3.jpg)
+![](countServersThatCommincate-3.jpg)
 ```
 Input: grid = [[1,1,0,0],[0,0,1,0],[0,0,1,0],[0,0,0,1]]
 Output: 4
